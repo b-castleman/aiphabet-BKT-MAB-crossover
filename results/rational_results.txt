@@ -1,0 +1,55 @@
+
+
+Skill: acting_rationally
+Student_A's probability of mastery (t = t_f): 0.9935824061927371
+
+Skill: acting_rationally
+Student_B's probability of mastery (t = t_f): 0.9938428107473553
+
+Skill: acting_rationally
+Student_C's probability of mastery (t = t_f): 0.9856144021345614
+
+Skill: acting_rationally
+Student_D's probability of mastery (t = t_f): 0.8197646227380837
+
+Skill: acting_rationally
+Student_E's probability of mastery (t = t_f): 0.8197646227380837
+
+Skill: acting_rationally
+Student_F's probability of mastery (t = t_f): 0.9848471944738445
+
+Skill: peas
+Student_A's probability of mastery (t = t_f): 0.9995122316334759
+
+Skill: peas
+Student_B's probability of mastery (t = t_f): 0.9999584587668975
+
+Skill: peas
+Student_C's probability of mastery (t = t_f): 0.9997816928610644
+
+Skill: peas
+Student_D's probability of mastery (t = t_f): 0.9986265529309597
+
+Skill: peas
+Student_E's probability of mastery (t = t_f): 0.9623129126960662
+
+Skill: peas
+Student_F's probability of mastery (t = t_f): 0.9986265529309597
+
+Skill: environment_types
+Student_A's probability of mastery (t = t_f): 0.9999999998265888
+
+Skill: environment_types
+Student_B's probability of mastery (t = t_f): 0.9999999998265888
+
+Skill: environment_types
+Student_C's probability of mastery (t = t_f): 0.9999999998265888
+
+Skill: environment_types
+Student_D's probability of mastery (t = t_f): 0.9999959315757085
+
+Skill: environment_types
+Student_E's probability of mastery (t = t_f): 0.9999959315757085
+
+Skill: environment_types
+Student_F's probability of mastery (t = t_f): 0.9999959315757085

@@ -1,0 +1,17 @@
+Skill: applications_of_ai_examples
+Student_A's probability of mastery (t = t_f): 0.9815930712077446
+
+Skill: applications_of_ai_examples
+Student_B's probability of mastery (t = t_f): 0.9999450845139656
+
+Skill: applications_of_ai_examples
+Student_C's probability of mastery (t = t_f): 0.9999450845139656
+
+Skill: applications_of_ai_examples
+Student_D's probability of mastery (t = t_f): 0.9953599389091994
+
+Skill: applications_of_ai_examples
+Student_E's probability of mastery (t = t_f): 0.9953599389091994
+
+Skill: applications_of_ai_examples
+Student_F's probability of mastery (t = t_f): 0.9953599389091994

@@ -1,0 +1,71 @@
+Skill: gestation_era
+Student_A's probability of mastery (t = t_f): 0.9985174622639582
+
+Skill: gestation_era
+Student_B's probability of mastery (t = t_f): 0.9987877939980204
+
+Skill: gestation_era
+Student_C's probability of mastery (t = t_f): 0.9985174622639582
+
+Skill: gestation_era
+Student_D's probability of mastery (t = t_f): 0.9940549560283076
+
+Skill: gestation_era
+Student_E's probability of mastery (t = t_f): 0.9940549560283076
+
+Skill: gestation_era
+Student_F's probability of mastery (t = t_f): 0.8967485054540225
+
+Skill: early_enthusiasm_era
+Student_A's probability of mastery (t = t_f): 0.9810019014113412
+
+Skill: early_enthusiasm_era
+Student_B's probability of mastery (t = t_f): 0.8810867587563335
+
+Skill: early_enthusiasm_era
+Student_C's probability of mastery (t = t_f): 0.8450875358546523
+
+Skill: early_enthusiasm_era
+Student_D's probability of mastery (t = t_f): 0.8845602910129162
+
+Skill: early_enthusiasm_era
+Student_E's probability of mastery (t = t_f): 0.8845602910129162
+
+Skill: early_enthusiasm_era
+Student_F's probability of mastery (t = t_f): 0.8845602910129162
+
+Skill: knowledge_based_era
+Student_A's probability of mastery (t = t_f): 0.999999858035772
+
+Skill: knowledge_based_era
+Student_B's probability of mastery (t = t_f): 0.9996453460296472
+
+Skill: knowledge_based_era
+Student_C's probability of mastery (t = t_f): 0.999999858035772
+
+Skill: knowledge_based_era
+Student_D's probability of mastery (t = t_f): 0.9760436192496205
+
+Skill: knowledge_based_era
+Student_E's probability of mastery (t = t_f): 0.9999009408638946
+
+Skill: knowledge_based_era
+Student_F's probability of mastery (t = t_f): 0.9760436192496205
+
+Skill: ai_becomes_scientific
+Student_A's probability of mastery (t = t_f): 0.9999602901549929
+
+Skill: ai_becomes_scientific
+Student_B's probability of mastery (t = t_f): 0.9999602901549929
+
+Skill: ai_becomes_scientific
+Student_C's probability of mastery (t = t_f): 0.9999602901549929
+
+Skill: ai_becomes_scientific
+Student_D's probability of mastery (t = t_f): 0.4379055363805757
+
+Skill: ai_becomes_scientific
+Student_E's probability of mastery (t = t_f): 0.9968094589452164
+
+Skill: ai_becomes_scientific
+Student_F's probability of mastery (t = t_f): 0.9968094589452164

@@ -1,0 +1,72 @@
+
+Skill: wumpus_world
+Student_A's probability of mastery (t = t_f): 0.9996424938209196
+
+Skill: wumpus_world
+Student_B's probability of mastery (t = t_f): 0.9996424938209196
+
+Skill: wumpus_world
+Student_C's probability of mastery (t = t_f): 0.9996424938209196
+
+Skill: wumpus_world
+Student_D's probability of mastery (t = t_f): 0.9934499942918951
+
+Skill: wumpus_world
+Student_E's probability of mastery (t = t_f): 0.9934499942918951
+
+Skill: wumpus_world
+Student_F's probability of mastery (t = t_f): 0.8758720008311067
+
+Skill: wumpus_inference_examples
+Student_A's probability of mastery (t = t_f): 0.9999724423113912
+
+Skill: wumpus_inference_examples
+Student_B's probability of mastery (t = t_f): 0.9998812667324665
+
+Skill: wumpus_inference_examples
+Student_C's probability of mastery (t = t_f): 0.9999960492382519
+
+Skill: wumpus_inference_examples
+Student_D's probability of mastery (t = t_f): 0.42621739483893395
+
+Skill: wumpus_inference_examples
+Student_E's probability of mastery (t = t_f): 0.9982592773800091
+
+Skill: wumpus_inference_examples
+Student_F's probability of mastery (t = t_f): 0.9982592773800091
+
+Skill: logic_review
+Student_A's probability of mastery (t = t_f): 0.9999092571309871
+
+Skill: logic_review
+Student_B's probability of mastery (t = t_f): 0.9961627288571787
+
+Skill: logic_review
+Student_C's probability of mastery (t = t_f): 0.9999092571309871
+
+Skill: logic_review
+Student_D's probability of mastery (t = t_f): 0.8619642676636409
+
+Skill: logic_review
+Student_E's probability of mastery (t = t_f): 0.8619642676636409
+
+Skill: logic_review
+Student_F's probability of mastery (t = t_f): 0.9958294586361386
+
+Skill: knowledge_base_definition
+Student_A's probability of mastery (t = t_f): 0.9991207834194571
+
+Skill: knowledge_base_definition
+Student_B's probability of mastery (t = t_f): 0.9991207834194571
+
+Skill: knowledge_base_definition
+Student_C's probability of mastery (t = t_f): 0.9991207834194571
+
+Skill: knowledge_base_definition
+Student_D's probability of mastery (t = t_f): 0.9634890081074814
+
+Skill: knowledge_base_definition
+Student_E's probability of mastery (t = t_f): 0.9634890081074814
+
+Skill: knowledge_base_definition
+Student_F's probability of mastery (t = t_f): 0.9634890081074814

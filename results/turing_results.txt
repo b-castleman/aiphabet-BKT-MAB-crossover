@@ -1,0 +1,36 @@
+
+Skill: turing_test_definition
+Student_A's probability of mastery (t = t_f): 0.9999962851190151
+
+Skill: turing_test_definition
+Student_B's probability of mastery (t = t_f): 0.9998135685037597
+
+Skill: turing_test_definition
+Student_C's probability of mastery (t = t_f): 0.9999959610955976
+
+Skill: turing_test_definition
+Student_D's probability of mastery (t = t_f): 0.9682054118058937
+
+Skill: turing_test_definition
+Student_E's probability of mastery (t = t_f): 0.9699343865210304
+
+Skill: turing_test_definition
+Student_F's probability of mastery (t = t_f): 0.9993464324211314
+
+Skill: turing_test_examples
+Student_A's probability of mastery (t = t_f): 0.9997499083187715
+
+Skill: turing_test_examples
+Student_B's probability of mastery (t = t_f): 0.9997499083187715
+
+Skill: turing_test_examples
+Student_C's probability of mastery (t = t_f): 0.995105949731269
+
+Skill: turing_test_examples
+Student_D's probability of mastery (t = t_f): 0.9890260289320526
+
+Skill: turing_test_examples
+Student_E's probability of mastery (t = t_f): 0.8196042027671361
+
+Skill: turing_test_examples
+Student_F's probability of mastery (t = t_f): 0.8196042027671361

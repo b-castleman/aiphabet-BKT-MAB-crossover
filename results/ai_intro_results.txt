@@ -1,0 +1,89 @@
+Skill: ai_definitions
+Student_A's probability of mastery (t = t_f): 0.9982909911980141
+
+Skill: ai_definitions
+Student_B's probability of mastery (t = t_f): 0.9983477472509307
+
+Skill: ai_definitions
+Student_C's probability of mastery (t = t_f): 0.9983477472509307
+
+Skill: ai_definitions
+Student_D's probability of mastery (t = t_f): 0.9963479552537572
+
+Skill: ai_definitions
+Student_E's probability of mastery (t = t_f): 0.9963479552537572
+
+Skill: ai_definitions
+Student_F's probability of mastery (t = t_f): 0.9963479552537572
+
+Skill: thinking_rationally
+Student_A's probability of mastery (t = t_f): 0.9999360285917075
+
+Skill: thinking_rationally
+Student_B's probability of mastery (t = t_f): 0.9987772876529591
+
+Skill: thinking_rationally
+Student_C's probability of mastery (t = t_f): 0.9971166385967084
+
+Skill: thinking_rationally
+Student_D's probability of mastery (t = t_f): 0.9922125239820033
+
+Skill: thinking_rationally
+Student_E's probability of mastery (t = t_f): 0.9922125239820033
+
+Skill: thinking_rationally
+Student_F's probability of mastery (t = t_f): 0.9132390604737151
+
+Skill: acting_rationally
+Student_A's probability of mastery (t = t_f): 0.994134157216622
+
+Skill: acting_rationally
+Student_B's probability of mastery (t = t_f): 0.994134157216622
+
+Skill: acting_rationally
+Student_C's probability of mastery (t = t_f): 0.9974289152450735
+
+Skill: acting_rationally
+Student_D's probability of mastery (t = t_f): 0.8080841721685719
+
+Skill: acting_rationally
+Student_E's probability of mastery (t = t_f): 0.8197646227380837
+
+Skill: acting_rationally
+Student_F's probability of mastery (t = t_f): 0.8197646227380837
+
+Skill: thinking_humanlike
+Student_A's probability of mastery (t = t_f): 0.7370520761412497
+
+Skill: thinking_humanlike
+Student_B's probability of mastery (t = t_f): 0.9612199813278481
+
+Skill: thinking_humanlike
+Student_C's probability of mastery (t = t_f): 0.9612199813278481
+
+Skill: thinking_humanlike
+Student_D's probability of mastery (t = t_f): 0.6586120499705133
+
+Skill: thinking_humanlike
+Student_E's probability of mastery (t = t_f): 0.8741878784546951
+
+Skill: thinking_humanlike
+Student_F's probability of mastery (t = t_f): 0.8741878784546951
+
+Skill: acting_humanlike
+Student_A's probability of mastery (t = t_f): 0.9996532080338704
+
+Skill: acting_humanlike
+Student_B's probability of mastery (t = t_f): 0.9910400129330211
+
+Skill: acting_humanlike
+Student_C's probability of mastery (t = t_f): 0.9996532080338704
+
+Skill: acting_humanlike
+Student_D's probability of mastery (t = t_f): 0.7673761274033933
+
+Skill: acting_humanlike
+Student_E's probability of mastery (t = t_f): 0.9890127378371614
+
+Skill: acting_humanlike
+Student_F's probability of mastery (t = t_f): 0.9890127378371614

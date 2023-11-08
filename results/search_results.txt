@@ -1,0 +1,72 @@
+
+Skill: search_definition
+Student_A's probability of mastery (t = t_f): 0.9935323922358033
+
+Skill: search_definition
+Student_B's probability of mastery (t = t_f): 0.9935323922358033
+
+Skill: search_definition
+Student_C's probability of mastery (t = t_f): 0.9947370392207738
+
+Skill: search_definition
+Student_D's probability of mastery (t = t_f): 0.9901155153317743
+
+Skill: search_definition
+Student_E's probability of mastery (t = t_f): 0.9901155153317743
+
+Skill: search_definition
+Student_F's probability of mastery (t = t_f): 0.9901155153317743
+
+Skill: simple_search
+Student_A's probability of mastery (t = t_f): 0.9999525174137812
+
+Skill: simple_search
+Student_B's probability of mastery (t = t_f): 0.9999525174137812
+
+Skill: simple_search
+Student_C's probability of mastery (t = t_f): 0.9999525174137812
+
+Skill: simple_search
+Student_D's probability of mastery (t = t_f): 0.9977471136046024
+
+Skill: simple_search
+Student_E's probability of mastery (t = t_f): 0.9977471136046024
+
+Skill: simple_search
+Student_F's probability of mastery (t = t_f): 0.9977471136046024
+
+Skill: constraint_search
+Student_A's probability of mastery (t = t_f): 0.9993855055804395
+
+Skill: constraint_search
+Student_B's probability of mastery (t = t_f): 0.9993855055804395
+
+Skill: constraint_search
+Student_C's probability of mastery (t = t_f): 0.9993855055804395
+
+Skill: constraint_search
+Student_D's probability of mastery (t = t_f): 0.9824012466283426
+
+Skill: constraint_search
+Student_E's probability of mastery (t = t_f): 0.9248758701315816
+
+Skill: constraint_search
+Student_F's probability of mastery (t = t_f): 0.856571254949857
+
+Skill: adversarial_search
+Student_A's probability of mastery (t = t_f): 0.9999999990116875
+
+Skill: adversarial_search
+Student_B's probability of mastery (t = t_f): 0.9999999990116875
+
+Skill: adversarial_search
+Student_C's probability of mastery (t = t_f): 0.9999999990116875
+
+Skill: adversarial_search
+Student_D's probability of mastery (t = t_f): 0.9999971162680213
+
+Skill: adversarial_search
+Student_E's probability of mastery (t = t_f): 0.9999971162680213
+
+Skill: adversarial_search
+Student_F's probability of mastery (t = t_f): 0.9999971162680213
